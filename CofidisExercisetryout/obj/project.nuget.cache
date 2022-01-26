@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BbhaYvWMNQWXgTVdFyuYONByxGxBGGH7SVBYijPesNmjKK5P0c6edAZfpmjI8jCrwzYwRdCxm4lzVRqNs5R1Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Monster\\source\\repos\\CofidisExercisetryout\\CofidisExercisetryout\\CofidisExercisetryout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.22\\microsoft.aspnetcore.jsonpatch.3.1.22.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.22\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.22.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\node.js\\0.12.7\\node.js.0.12.7.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\nogit\\0.1.0\\nogit.0.1.0.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\npm\\3.5.2\\npm.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>0c275514-0c1c-43d1-a0a5-3fc01c5d1f89</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.22" />
+    <PackageReference Include="Npm" Version="3.5.2" />
+  </ItemGroup>
+
+  <Target Name="Parcel" BeforeTargets="BeforeBuild">
+    <Exec Command="npm run clean" />
+  </Target>
+
+  <Target Name="Parcel" BeforeTargets="Build">
+    <Exec Command="npm run build" />
+  </Target>
+
+</Project>
